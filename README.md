@@ -29,6 +29,8 @@ An automated dashboard that provides up-to-date sales insights, enabling data-dr
 - The sales team is able to make better decisions, leading to a 10% cost saving on total spend.  
 - Sales analysts can eliminate manual data gathering, saving 20% of their time, which can be reinvested in value-added activities.
 
+![AIMSGRID](https://github.com/satishsangwan/AtliQ_Sales_Insights_PowerBI/blob/main/Images/AIMS.jpg)
+
 ## Project Execution Steps
 
 1. **High-Level Data Analysis**  
@@ -69,6 +71,9 @@ An automated dashboard that provides up-to-date sales insights, enabling data-dr
    - Removed duplicate currency entries (INR and INR\r, USD and USD\r).  
    - Converted all transaction amounts to INR by applying a conversion factor of 75 for USD transactions.
 
+## Data Model
+![DataModel](https://github.com/satishsangwan/AtliQ_Sales_Insights_PowerBI/blob/main/Images/Data%20Model.png)
+
 ## Key DAX Measures
 
 1. **Revenue**  
@@ -104,3 +109,7 @@ An automated dashboard that provides up-to-date sales insights, enabling data-dr
 The final deliverable is a comprehensive Power BI dashboard that provides real-time sales insights, enabling the sales team to make informed decisions quickly. The dashboard has streamlined the reporting process, leading to significant time and cost savings.
 
 [**Live Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiNWE1YWI0N2UtNDQ5OS00NDZkLWFmNjAtMjhjNDU5MDdmOTU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+![GIF1](https://github.com/satishsangwan/AtliQ_Sales_Insights_PowerBI/blob/main/Images/Gif_1.gif)
+
+![GIF1](https://github.com/satishsangwan/AtliQ_Sales_Insights_PowerBI/blob/main/Images/Gif_2.gif)
