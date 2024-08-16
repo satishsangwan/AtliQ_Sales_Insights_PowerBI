@@ -1,4 +1,5 @@
-# AtliQ Sales Insights Project
+<h1 align="center">AtliQ Sales Insights Project</h1> 
+
 
 ## About the Company
 
