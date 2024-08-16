@@ -52,6 +52,7 @@ An automated dashboard that provides up-to-date sales insights, enabling data-dr
    After the initial report was reviewed by stakeholders, incorporated their feedback to refine the report.
 
 ## Data Overview
+![DataTables](https://github.com/satishsangwan/AtliQ_Sales_Insights_PowerBI/blob/main/Images/Data%20Tables.png)
 
 - **Number of Transactions**: 150,283  
 - **Number of Customers**: 38  
